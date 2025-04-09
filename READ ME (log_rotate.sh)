@@ -1,0 +1,12 @@
+I just created a Bash script to automate log rotation ensuring my applications never run out of disk space while keeping backups organized! Here's what it does:
+✔ Compresses old logs (.gz)
+✔ Clears active logs without losing data
+✔ Retains only the latest 10 backups (configurable)
+✔ Self-cleaning (removes oldest files automatically)
+
+Prevent log files from growing indefinitely
+Save storage space with Gzip compression
+Fully automated—zero manual intervention
+
+GitHub Gist: github.com/Beto-lima
+(Feel free to reuse/adapt!)
